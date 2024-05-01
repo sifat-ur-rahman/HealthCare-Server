@@ -4,11 +4,10 @@ Welcome to the **HealthCare server-side** documentation! This document provides 
 
 ## Technologies
 
-NodeJS: Used for server-side application development.
-Express: A minimal and flexible Node.js web application framework used to build APIs and manage routes.
-Prisma: ORM (Object-Relational Mapping) tool for efficient interaction with the PostgreSQL database.
-PostgreSQL: Relational database management system for secure and scalable data management.
-Agora.io (via WEB RTC): A third-party service for real-time audio and video communication between doctors and patients.
+- **NodeJS:** Used for server-side application development.
+- **Express:** A minimal and flexible Node.js web application framework used to build APIs and manage routes.
+- **Prisma:** ORM (Object-Relational Mapping) tool for efficient interaction with the PostgreSQL database.
+- **PostgreSQL:** Relational database management system for secure and scalable data management.
 
 ## **Getting Started**
 
@@ -45,21 +44,21 @@ To contribute to the project, follow these guidelines:
 
 1.  **Create a Feature Branch:**
     Before starting work on a new feature, create a feature branch:
-        ```bash
-        git checkout -b feature/your-feature-name
-        ```
+    `bash
+git checkout -b feature/your-feature-name
+`
 2.  **Write Code:**
     Implement the feature or fix the bug on your feature branch.
 3.  **Commit Changes:**
     Commit your changes with a meaningful commit message:
-        ```bash
-        git commit -m "Add your commit message here"
-        ```
+    `bash
+git commit -m "Add your commit message here"
+`
 4.  **Push Changes:**
     Push your changes to your feature branch:
-        ```bash
-        git push origin feature/your-feature-name
-        ```
+    `bash
+git push origin feature/your-feature-name
+`
 5.  **Create a Pull Request (PR):**
     Create a pull request from your feature branch to the **`development`** branch on GitHub. Ensure the PR title and description are descriptive.
 6.  **Code Review:**
