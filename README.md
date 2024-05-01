@@ -32,6 +32,11 @@ Welcome to the **HealthCare server-side** documentation! This document provides 
 - **Payment and Confirmation:** Pay consultation fees when booking appointments, receive email confirmations and invoices, and handle automatic booking cancellations.
 - **Reviews:** Provide reviews and ratings for consulting doctors and manage previous reviews.
 
+### Security and Communication
+
+- **Authentication and Authorization:** Implement secure authentication and authorization mechanisms.
+- **Real-time Communication:** Use Agora.io for real-time video and audio communication during consultations.
+
 ## **Getting Started**
 
 1. **Clone the Repository:**
