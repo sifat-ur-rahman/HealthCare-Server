@@ -9,6 +9,14 @@ Welcome to the **HealthCare server-side** documentation! This document provides 
 - **Prisma:** ORM (Object-Relational Mapping) tool for efficient interaction with the PostgreSQL database.
 - **PostgreSQL:** Relational database management system for secure and scalable data management.
 
+## Features
+
+### Admin Functionalities
+
+- **Account Management:** Create and manage doctor accounts.
+- **Appointment Management:** Create schedule slots and manage doctor appointment slots (e.g., change status of appointments).
+- **Access to Information:** View appointment history and details, access and manage doctor profiles, and view metadata.
+
 ## **Getting Started**
 
 1. **Clone the Repository:**
