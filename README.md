@@ -17,6 +17,12 @@ Welcome to the **HealthCare server-side** documentation! This document provides 
 - **Appointment Management:** Create schedule slots and manage doctor appointment slots (e.g., change status of appointments).
 - **Access to Information:** View appointment history and details, access and manage doctor profiles, and view metadata.
 
+### Doctor Functionalities
+
+- **Appointment Management:** View upcoming appointments, set appointment slots, and take appointments.
+- **Patient Profile Management:** Access patient profiles and medical history, view diagnostic test reports, and view previous prescriptions (if any).
+- **Prescription Management:** Generate prescriptions for patients during and after consultations and send them through email.
+
 ## **Getting Started**
 
 1. **Clone the Repository:**
