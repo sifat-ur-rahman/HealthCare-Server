@@ -23,6 +23,15 @@ Welcome to the **HealthCare server-side** documentation! This document provides 
 - **Patient Profile Management:** Access patient profiles and medical history, view diagnostic test reports, and view previous prescriptions (if any).
 - **Prescription Management:** Generate prescriptions for patients during and after consultations and send them through email.
 
+### Patient Functionalities
+
+- **Account Management:** Register a new account, recover passwords, and maintain account security.
+- **Appointment Booking:** Schedule appointments, book with specific doctors, and manage appointments.
+- **Medical Record Management:** Manage personal profile data and medical history, and upload diagnostic test reports.
+- **Prescription Access:** Access and view prescriptions and receive them through the platform and email.
+- **Payment and Confirmation:** Pay consultation fees when booking appointments, receive email confirmations and invoices, and handle automatic booking cancellations.
+- **Reviews:** Provide reviews and ratings for consulting doctors and manage previous reviews.
+
 ## **Getting Started**
 
 1. **Clone the Repository:**
